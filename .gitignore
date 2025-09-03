@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore the database file
+gas_prices.db
+
+# Ignore Python virtual environment files if you use one
+venv/
